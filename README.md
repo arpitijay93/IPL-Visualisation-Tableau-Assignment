@@ -13,6 +13,7 @@ B. Biggest wins (by runs and by wicket)
 C. Highest totals (across all the seasons)
  
 
+
 2. Player Statistics
 
 A. Orange Cap contenders (The batsmen who have scored the maximum number of runs in a particular season)
@@ -20,6 +21,8 @@ A. Orange Cap contenders (The batsmen who have scored the maximum number of runs
 B. Purple Cap contenders (The bowlers who have taken the maximum number of wickets in a particular season)
 
 C. Batsmen who have hit the most number of fours and sixes (per season and overall)
+
+
 
 3. Team Statistics
 
